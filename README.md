@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mayank 
 - 👀 I’m interested in Blockchain technology, Web development and writing Blogs 
 - 🌱 I’m currently learning Blockchain Development
-- 😄 Pronouns: He/Him
 
 
 <!---
